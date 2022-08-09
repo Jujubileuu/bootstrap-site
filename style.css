@@ -1,0 +1,25 @@
+header{
+    background-color: brown;
+    height: 200px;
+}
+main{
+    background-color: blue;
+    height: auto;
+}
+main section{
+    background-color: red;
+    height: auto;
+}
+aside{
+    background-color: bisque;
+    height: 200px;
+    float: right;
+}
+aside section{
+    background-color: crimson;
+    height: 50px;
+}
+footer{
+    background-color: chartreuse;
+    height: auto;
+}
