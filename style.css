@@ -3,22 +3,23 @@ header{
     height: 200px;
 }
 main{
-    background-color: blue;
     height: auto;
 }
 main section{
-    background-color: red;
+    height: auto;
+}
+#destaque{
+    width: 90%;
     height: auto;
 }
 aside{
-    background-color: bisque;
-    height: 200px;
+    height: auto;
     float: right;
 }
 aside section{
-    background-color: crimson;
-    height: 50px;
+    height: auto;
 }
+
 footer{
     background-color: chartreuse;
     height: auto;
