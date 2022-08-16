@@ -1,6 +1,8 @@
 header{
-    background-color: brown;
-    height: 200px;
+    height: 220px;
+    background-image: url(https://viciados.net/wp-content/uploads/2020/03/bilheterias-anime-Jap%C3%A3o.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 main{
     height: auto;
