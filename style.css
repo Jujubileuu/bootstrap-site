@@ -12,6 +12,14 @@ header{
 main{
     height: auto;
 }
+#imgDestaque {
+    height: 300px;
+    max-height: 300px;
+}
+#asideBanners{
+    height: 322px;
+    max-height: 322px;
+}
 main section{
     height: auto;
 }
@@ -25,4 +33,20 @@ aside section{
 
 footer{
     height: auto;
+}
+@media only screen and (max-width: 600px) {
+
+    #imgDestaque {
+      height: 460px!important;
+      max-height: 460px!important;
+    }
+
+}
+@media only screen and (max-width: 600px) {
+
+    #asideBanners {
+      height: 250px!important;
+      max-height: 250px!important;
+    }
+
 }
