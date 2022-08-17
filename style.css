@@ -20,6 +20,10 @@ main{
     height: 322px;
     max-height: 322px;
 }
+.novos {
+    height: 490px;
+    max-height: 490px;
+}
 main section{
     height: auto;
 }
@@ -47,6 +51,14 @@ footer{
     #asideBanners {
       height: 250px!important;
       max-height: 250px!important;
+    }
+
+}
+@media only screen and (max-width: 600px) {
+
+    .novos {
+      height: 530px!important;
+      max-height: 530px!important;
     }
 
 }
