@@ -17,8 +17,8 @@ main{
     max-height: 300px;
 }
 #asideBanners{
-    height: 322px;
-    max-height: 322px;
+    height: 20em;
+    max-height: 20em;
 }
 .novos {
     height: 325px;
@@ -26,6 +26,9 @@ main{
 }
 .card-title{
     font-size: 15px;
+}
+.nav-link{
+    font-size: 16px;
 }
 main section{
     height: auto;
@@ -52,8 +55,8 @@ footer{
 @media only screen and (max-width: 600px) {
 
     #asideBanners {
-      height: 250px!important;
-      max-height: 250px!important;
+      height: 15em!important;
+      max-height: 15em!important;
     }
 
 }
@@ -62,6 +65,13 @@ footer{
     .novos {
       height: 330px!important;
       max-height: 330px!important;
+    }
+
+}
+@media only screen and (max-width: 600px) {
+
+    .nav-link{
+        font-size: 13px!important;
     }
 
 }
