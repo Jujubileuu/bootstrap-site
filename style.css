@@ -21,7 +21,7 @@ main{
     height: 20em;
     max-height: 20em;
 }
-.novos {
+.novos{
     height: 325px;
     max-height: 325px;
 }
@@ -74,5 +74,7 @@ footer{
     .nav-link{
         font-size: 13px!important;
     }
-
+    .dropdown-item{
+        font-size: 13px!important;
+    }
 }
